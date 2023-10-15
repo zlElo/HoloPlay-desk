@@ -17,9 +17,9 @@ def window():
         private_mode_setting = True
 
 
-    # Create a webview window with an HTTP server
+    # Create a webview window
     webview.create_window('HoloPlay', url=holoplay_url)
 
 
-    # Start the webview with the HTTP server
-    webview.start(http_server=True, private_mode=private_mode_setting)
+    # Start the webview
+    webview.start(private_mode=private_mode_setting)
