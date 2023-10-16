@@ -1,5 +1,11 @@
-# HoloPlay-desk
+
+<h1 style="text-align: center; font-size: 36px;">HoloPlay-desk</h1>
 Unofficial Desktop App for HoloPlay
+
+
+## Screenshots
+
+<p align="center"><img src="./img/window_screenshot.png"  width="750" /></p>
 
 
 - download the package in the releases
