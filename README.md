@@ -15,6 +15,5 @@ HoloPlay-desk is a unofficial desktop client for HoloPlay. In the releases are t
 ## What is the private mode?
 The private mode is a feature of this client, which make it possible to don't store any website datas of the selected HoloPlay instance.
 
-
 ## Official Repository of HoloPlay
 Here is the official Repository of @stephane-r https://github.com/stephane-r/holoplay-pwa
