@@ -9,7 +9,7 @@ Unofficial Desktop App for HoloPlay
 
 
 - download the package in the releases
-- install
+- install it (two options, only for you or all users on the pc)
 - enter your HoloPlay instance (eg. https://app.holoplay.io or selfhosted)
 - if you want the private mode, you can enable it
 - start with music listening!
